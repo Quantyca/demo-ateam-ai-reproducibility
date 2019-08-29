@@ -4,4 +4,4 @@ url = /opt/shared/.local/dvc-storage
 remote = myremote
 [cache]
 protected = true
-type = "hardlink,symlink"
+type = symlink
